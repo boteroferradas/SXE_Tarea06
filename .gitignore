@@ -1,0 +1,11 @@
+# Archivo de variables de entorno con credenciales reales
+.env
+
+# Directorios de datos persistentes creados localmente
+/config
+/addons
+
+# Archivos de sistema y temporales
+.DS_Store
+*.log
+*.tmp
