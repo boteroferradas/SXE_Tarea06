@@ -71,7 +71,5 @@ y comprobe que los 3 contenedores estaban funcionando
 
 ![img3.png](capturas/img5.png)
 
-### El servicio web no funcionaba
-
 
 
